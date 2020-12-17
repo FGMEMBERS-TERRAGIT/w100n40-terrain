@@ -1,0 +1,5 @@
+OBJECT_BASE 1401346.btg
+OBJECT KRYM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -94.369438 46.096468 351.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -94.364255 46.091257 350.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -94.353100 46.084825 349.4 0.00

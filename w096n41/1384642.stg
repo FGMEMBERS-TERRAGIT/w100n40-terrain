@@ -1,0 +1,4 @@
+OBJECT_BASE 1384642.btg
+OBJECT KRDK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.255453 41.009382 316.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -95.256960 41.015875 318.0 0.00

@@ -1,0 +1,4 @@
+OBJECT_BASE 1384608.btg
+OBJECT KAFK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.867713 40.607688 352.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -95.860713 40.604492 349.6 0.00

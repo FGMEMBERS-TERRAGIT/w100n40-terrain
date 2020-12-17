@@ -1,0 +1,6 @@
+OBJECT_BASE 1384667.btg
+OBJECT KAIO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.052817 41.411373 359.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.051041 41.409046 354.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.060231 41.391735 349.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -95.041098 41.405484 347.8 0.00

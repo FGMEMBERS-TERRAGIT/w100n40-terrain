@@ -1,0 +1,4 @@
+OBJECT_BASE 1319088.btg
+OBJECT KLXN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -99.773353 40.788101 731.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -99.770584 40.788269 731.4 0.00
